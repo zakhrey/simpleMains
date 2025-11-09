@@ -1,4 +1,4 @@
-package zakhrey.sql.generate;
+package zakhrey.sql.jdbc.simple.generate;
 
 import java.time.LocalDateTime;
 import java.time.temporal.ChronoUnit;

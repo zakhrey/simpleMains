@@ -1,4 +1,4 @@
-package zakhrey.sql.connection;
+package zakhrey.sql.jdbc.simple.connection;
 
 import java.sql.*;
 
